@@ -1,3 +1,3 @@
-# omnifood Project
+# omnifood 🥦🚀
 
-Food delivery application main page, made with tailwind instead of css.
+Food delivery application main page, made from scratch with tailwindCSS.
